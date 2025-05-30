@@ -8,7 +8,7 @@ This Excel project analyzes and visualizes 5,000 rows of global sales records. I
 ![Dashboard](dashboard.jpg)
 
 ### Pivot Table Summary
-![Pivot Table](pivot-table.jpg)
+![Pivot Table](pivot_table.jpg)
 
 ## 📁 Project Structure
 
